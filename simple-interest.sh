@@ -5,8 +5,7 @@
    # Do not use this in production. Sample purpose only.
 
    # Author: Upkar Lidder (IBM)
-   # Additional Authors:
-   # <your GitHub username>
+   # Additional Authors: flo289
 
    # Input:
    # p, principal amount
